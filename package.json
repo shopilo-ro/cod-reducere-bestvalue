@@ -1,0 +1,22 @@
+{
+  "name": "cod-reducere-bestvalue",
+  "version": "1.0.0",
+  "description": "Fetch automat de coduri de reducere BestValue de pe shopilo.ro",
+  "main": "index.js",
+  "keywords": [
+    "cod-reducere",
+    "cod-reducere-bestvalue",
+    "voucher-bestvalue",
+    "cupon-bestvalue",
+    "reduceri",
+    "shopilo",
+    "cupoane"
+  ],
+  "author": "shopilo-ro",
+  "license": "MIT",
+  "homepage": "https://shopilo.ro/magazin/bestvalue.eu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-ro/cod-reducere-bestvalue.git"
+  }
+}
